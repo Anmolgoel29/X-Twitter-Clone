@@ -571,6 +571,16 @@ svg {
   color: white;
 }
 
+.nav>ul>span>li {
+  visibility: hidden;
+}
+
+@media (min-width: 1280px) {
+  .nav>ul>span>li {
+    visibility: visible;
+  }
+}
+
 .fixed {
   position: fixed;
 }
@@ -645,6 +655,10 @@ svg {
 
 .w-full {
   width: 100%;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
 }
 
 .border-collapse {

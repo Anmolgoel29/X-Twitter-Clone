@@ -16,4 +16,8 @@
     fill: currentColor;
     color: white;
   }
+
+  .nav>ul>span>li{
+    @apply invisible xl:visible;
+  }
 }
