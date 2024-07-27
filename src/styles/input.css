@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav > ul > span {
+    display: inline-flex;
+    @apply items-center text-xl;
+    gap: 20px;
+    @apply rounded-full;
+    width: fit-content;
+  }
+
+  svg {
+    width: 30px;
+    fill: currentColor;
+    color: white;
+  }
+}
