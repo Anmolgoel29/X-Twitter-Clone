@@ -1,0 +1,1 @@
+This Twitter clone is a web application designed to replicate the core features and user experience of Twitter. Built with Tailwind CSS and modern JavaScript, the project emphasizes responsive design and interactive functionality. It serves as a demonstration of how to create a user-friendly social media platform using modern web development technologies.
