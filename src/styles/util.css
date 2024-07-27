@@ -989,6 +989,10 @@ svg {
   .md\:ml-28 {
     margin-left: 7rem;
   }
+
+  .md\:ml-2 {
+    margin-left: 0.5rem;
+  }
 }
 
 @media (min-width: 1024px) {
